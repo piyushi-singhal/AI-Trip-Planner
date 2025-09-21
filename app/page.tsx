@@ -343,14 +343,7 @@ export default function HomePage() {
                 Plan My Trip
                 <ArrowRightIcon className="ml-2 h-5 w-5" />
               </Button>
-              <Button
-                size="lg"
-                variant="outline"
-                className="text-lg px-8 py-6 border-white/20 text-white hover:bg-white/10 bg-transparent"
-              >
-                <PlayIcon className="mr-2 h-5 w-5" />
-                Watch Demo
-              </Button>
+             
             </div>
 
             {/* Stats */}
